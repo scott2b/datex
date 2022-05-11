@@ -1,2 +1,3 @@
 # datex
-regex patterns for dates
+
+Patterns for dates
